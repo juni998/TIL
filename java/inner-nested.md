@@ -153,4 +153,3 @@ public class Test {
 ### Reference
 - https://devlog-wjdrbs96.tistory.com/206
 - https://yuja-kong.tistory.com/entry/Java-inner-class-%EC%99%80-inner-static-class-%EC%B0%A8%EC%9D%B4
-- 
