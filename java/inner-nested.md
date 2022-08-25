@@ -1,9 +1,9 @@
 # Inner Class VS Static Nested Class
-> Inner Class 와 Static Nested Class의 차이점과 언제 사용해야 하는지 알아보자
+> Inner Class 와 Static Nested Class의 차이점과 언제 사용해야 하는지 알아봅시다
 <br>
 
 ## Nested Class
-> 먼저 Nested Class에 대해 알아보자
+> 먼저 Nested Class에 대해 알아
 <br>
 
 ### Nested Class란?
