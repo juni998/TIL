@@ -137,3 +137,11 @@ AbstractCollection 클래스에서 addAll 메소드는 Collection 객체의 수�
 <br><br>
 
 ## 그러므로 Composition을 사용하자
+<br>
+
+## Reference
+
+- https://unluckyjung.github.io/oop/2021/03/17/Inheritance-and-Encapsulation/
+- https://dev-cool.tistory.com/22
+- https://yeonyeon.tistory.com/206
+
