@@ -148,3 +148,9 @@ public class Test {
 ## 요약
 1. 내부 클래스는 static Nested Class로 생성해 주는것이 좋다
 2. inner class를 생성해야 할 경우 외부 클래스로 빼도록 한다
+
+
+### Reference
+- https://devlog-wjdrbs96.tistory.com/206
+- https://yuja-kong.tistory.com/entry/Java-inner-class-%EC%99%80-inner-static-class-%EC%B0%A8%EC%9D%B4
+- 
