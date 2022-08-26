@@ -16,5 +16,6 @@
 <summary>목차</summary>
 
 1. [character의 incoding](java/character-incoding.md)
-
+2. [상속과 컴포지션](java/inheritance-composition.md)
+3. [Inner Class와 static Nested Class](java/inner-nested.md)
 </details>
