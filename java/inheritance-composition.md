@@ -199,8 +199,7 @@ public class ForwardingSet<E> implements Set<E> {
 <br>
 
 ## 요약
-<br>
-상속을 꼭 사용가능한 상황 외에는 Composition 사용 권장!
+> 상속을 꼭 사용가능한 상황 외에는 Composition 사용 권장!
 <br>
 
 ### 상속을 사용할 때
