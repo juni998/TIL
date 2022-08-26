@@ -69,7 +69,7 @@ StringBuilder temp3 = (StringBuilder)dto3.getObject();
 
 <br>
 
-### Generic으로 단점 보완하기
+### Generic 사용법
 DTO를 Generic으로 선언하여 변경
 ```java
 public class CastingDTO<T> {
