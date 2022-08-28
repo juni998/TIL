@@ -6,8 +6,8 @@
 <details>
 <summary>목차</summary>
 
-1. [클래스와 객체, 인스턴스](godOfJava/class-and-object.md)
-2. [Generic](godOfJava/generics.md)
+- [클래스와 객체, 인스턴스](godOfJava/class-and-object.md)
+- [Generic](godOfJava/generics.md)
 
 </details>
 <br>
@@ -16,7 +16,8 @@
 <details>
 <summary>목차</summary>
 
-1. [character의 incoding](java/character-incoding.md)
-2. [상속과 컴포지션](java/inheritance-composition.md)
-3. [Inner Class와 static Nested Class](java/inner-nested.md)
+- [character의 incoding](java/character-incoding.md)
+- [상속과 컴포지션](java/inheritance-composition.md)
+- [Inner Class와 static Nested Class](java/inner-nested.md)
+- [Variance](java/Variance.md)
 </details>
