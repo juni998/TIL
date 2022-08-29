@@ -84,9 +84,5 @@ super는 `<? super T>` 형태로만 사용이 가능하다
 
 <br>
 
-## 제네릭 제약 예제 - extends, super
-
-<br>
-
 ## Reference
 - https://yarisong.tistory.com/48
