@@ -186,7 +186,7 @@ void afterNodeRemoval(Node<K,V> p) { } // 데이터가 삭제되었을 때
 
 <br>
 
-위의 메소드 중에서 `afterNodeAccess`를 자세히 보면 다음과 같이 구현되어 있는데,
+위의 메소드 중에서 `afterNodeAccess()` 메소드를 자세히 보면 다음과 같이 구현되어 있는데,
 
 ```java
     void afterNodeAccess(Node<K,V> e) { // move node to last
@@ -215,7 +215,7 @@ void afterNodeRemoval(Node<K,V> p) { } // 데이터가 삭제되었을 때
     }
 ```
 
-`afterNodeAccess`는 accessOrder가 true로 접근했을 때 key의 순서를 변경해주는 작업을 진행한다
+`afterNodeAccess()`메소드는 accessOrder가 true로 접근했을 때 key의 순서를 변경해주는 작업을 진행한다
 
 <br>
 
