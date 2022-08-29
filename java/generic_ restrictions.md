@@ -19,7 +19,7 @@ T는 보낸 타입에 따라 `Integer`, `String`이 된다
 <br>
 
 ## 제네릭 제약 방법과 와일드카드
-제네릭의 제약 방법에는 `extends`, `super, `wildcard` 세 가지를 이용할 수 있다
+제네릭의 제약 방법에는 `extends`, `super`, `wildcard` 세 가지를 이용할 수 있다
 
 <br>
 
