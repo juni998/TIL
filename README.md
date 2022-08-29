@@ -8,6 +8,7 @@
 
 - [클래스와 객체, 인스턴스](godOfJava/class-and-object.md)
 - [Generic](godOfJava/generics.md)
+- [Set](godOfJava/Set_Collection.md)
 
 </details>
 <br>
@@ -20,4 +21,5 @@
 - [상속과 컴포지션](java/inheritance-composition.md)
 - [Inner Class와 static Nested Class](java/inner-nested.md)
 - [Variance](java/Variance.md)
+- [ArrayList와 LinkedList](java/LinkedList_ArrayList.md)
 </details>
