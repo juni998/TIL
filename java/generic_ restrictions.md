@@ -73,7 +73,7 @@ public List<? extends food> printData(){
 
 <br>
 
-## 제네릭의 사 - super
+## 제네릭의 사용 - super
 super는 `<? super T>` 형태로만 사용이 가능하다
 
 <br>
