@@ -30,7 +30,7 @@ T는 보낸 타입에 따라 `Integer`, `String`이 된다
 <br>
 
 ## 제네릭의 사용 - extends
-extends는 `<K extends T>, `<? extends T>` 2가지 형태로 사용된다
+extends는 `<K extends T>`, `<? extends T>` 2가지 형태로 사용된다
 
 ### `<K extends T>`
 - 타입 파라미터에 지정되는 구체적인 타입을 제한할 때 사용한다
