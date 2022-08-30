@@ -137,7 +137,7 @@ e
 <br>
 
 ### accessOrder
-먼저 LinkedHashM?ap 생성자를 살펴보면 다음과 같다
+먼저 LinkedHashMap 생성자를 살펴보면 다음과 같다
 ```java
 
 public LinkedHashMap(int initialCapacity, float loadFactor) {
@@ -170,7 +170,9 @@ public LinkedHashMap(int initialCapacity,float loadFactor, boolean accessOrder) 
 <br>
 
 HashMap과 별도로 LinkedHashMap에서는 accessOrder라는 값을 가지고 있고, 기본적으로 false로 설정되어 있다
+
 true : 최근에 접근한 요소를 가장 마지막에 표기
+
 false : 기본값, 입력한 순서대로 표기
 
 <br>
