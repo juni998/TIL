@@ -10,6 +10,7 @@
 - [Generic](godOfJava/generics.md)
 - [Set](godOfJava/Set_Collection.md)
 - [Map](godOfJava/Map.md)
+- [Stream](godOfJava/Stream.md)
 
 </details>
 <br>
