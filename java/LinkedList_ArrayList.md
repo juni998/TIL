@@ -98,8 +98,10 @@ next address를 추가적으로 저장해야 하기 때문에 데이터 하나�
 ### Linked List의 시간복잡도 
 - access : O(n)
 - search : O(n)
-- insertion : O(1)
-- deletion : O(1)
+- 첫 번째 원소에 insertion : O(1)
+- 첫 번째 원소에 deletion : O(1)
+- 그 외 insertion : O(n)
+- 그 외 deletion : O(n)
 
 <br>
 
