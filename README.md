@@ -23,4 +23,5 @@
 - [Inner Class와 static Nested Class](java/inner-nested.md)
 - [Variance](java/Variance.md)
 - [ArrayList와 LinkedList](java/LinkedList_ArrayList.md)
+- [HashTable과 Stack의 문제점](java/hashtable_stack.md)
 </details>
