@@ -3,7 +3,7 @@
 <br>
 
 ## Nested Class
-> 먼저 Nested Class에 대해 알아
+> 먼저 Nested Class에 대해 알아봅시다
 <br>
 
 ### Nested Class란?
