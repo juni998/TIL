@@ -34,5 +34,5 @@
 <details>
 <summary>목차</summary>
 
-- 
+- [Thread와 Process](OS/thread_process.md)
 </details>
