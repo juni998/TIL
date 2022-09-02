@@ -36,4 +36,6 @@
 <summary>목차</summary>
 
 - [Thread와 Process](OS/thread_process.md)
+- [동시성 프로그래밍과 병렬성 프로그래밍](OS/Concurrency_Parallelism.md)
+- [동시성 이유에 대하여](OS/동시성이슈.md)
 </details>
