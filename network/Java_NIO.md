@@ -1,7 +1,6 @@
 # Java NIO
 
 <br>
-
 Java NIO는 세 가지 컴포넌트로 구성되어 있다
 - Channel
 - Buffers
