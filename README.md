@@ -2,9 +2,9 @@
 > 오늘 배운, 알게 된, 학습한 내용을 정리해두는 저장소
 </br>
 
-## :arrow_forward: 자바의 신
+## :arrow_forward: 도서
 <details>
-<summary>목차</summary>
+<summary>자바의 신</summary>
 
 - [클래스와 객체, 인스턴스](godOfJava/class-and-object.md)
 - [Generic](godOfJava/generics.md)
@@ -13,6 +13,15 @@
 - [Stream](godOfJava/Stream.md)
 
 </details>
+
+<br>
+
+<details>
+<summary>JSP 웹 프로그래밍</summary>
+
+- [웹 프로그래밍 기초](JSP_WebProgramming/CT.02.md)
+</details>
+
 <br>
 
 ## :arrow_forward: 자바
