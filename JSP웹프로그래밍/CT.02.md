@@ -3,11 +3,10 @@
 > - URL
 > - 웹 브라우저와 웹 서버
 > - HTML과 HTTP
-> - JSP프로그래밍
 
 <br>
 
-## URL의 주요 구성 요소
+### URL의 주요 구성 요소
 ```
 http://www.11st.co.kr/html/category/1.html?xzone=ctgr1^html
 ```
@@ -18,7 +17,7 @@ http://www.11st.co.kr/html/category/1.html?xzone=ctgr1^html
 
 <br>
 
-## 웹 브라우저와 웹 서버
+### 웹 브라우저와 웹 서버
 ![다운로드](https://user-images.githubusercontent.com/103838236/188817052-15aab2ca-2dae-48b7-9bd5-7e73a439ce05.png)
 
 - 웹 브라우저 -> 웹 서버 : 요청(request)
