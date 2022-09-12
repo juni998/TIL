@@ -20,6 +20,8 @@
 <summary>JSP 웹 프로그래밍</summary>
 
 - [웹 프로그래밍 기초](JSP_WebProgramming/CT.02.md)
+- [JSP로 시작하는 웹 프로그래밍](JSP_WebProgramming/CT.03.md)
+- [JSP 필수 이해 요소](JSP_WebProgramming/CT.04.md)
 </details>
 
 <br>
@@ -66,6 +68,7 @@
 - [L4와 L7 로드밸런서](network/L4_L7.md)
 - [TCP와 UDP](network/TCP와UDP.md)
 - [TCP연결](network/TCP연결.md)
+- [GET과 POST](network/GET과POST.md)
 
 </details>
 
