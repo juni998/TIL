@@ -22,6 +22,8 @@
 - [웹 프로그래밍 기초](JSP_WebProgramming/CT.02.md)
 - [JSP로 시작하는 웹 프로그래밍](JSP_WebProgramming/CT.03.md)
 - [JSP 필수 이해 요소](JSP_WebProgramming/CT.04.md)
+- [Cookie](JSP_WebProgramming/CT.09.md)
+- [Session](JSP_WebProgramming/CT.10.md)
 </details>
 
 <br>
