@@ -80,12 +80,14 @@ Cookie[] cookies = request.getCookies();
 ### 같은 도메인을 사용하는 모든 서버에 쿠키를 보내야 할 때
 `setDomain()` 메소드 사용
 - .naver.com : 점(.)으로 시작하는 경우 관련 도메인에 모두 쿠키를 전송한다
-  - 예시 : `.naver.com`으로 설정하면 `mail.naver.com`, www.naver.com`, `news.naver.com` 등 모두 쿠키를 전송한다
+  - 예시 : `.naver.com`으로 설정하면 `mail.naver.com`, `www.naver.com`, `news.naver.com` 등 모두 쿠키를 전송한다
 - www.naver.com : 특정 도메인에 대해서만 쿠키를 전송한다
 
 <br>
 
 #### 도메인 지정할 때 주의 점
 - 현재 서버의 도메인 및 상위 도메인만 전달할 수 있다
+
+<br>
 
 
