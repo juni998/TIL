@@ -2,7 +2,7 @@
 > 오늘 배운, 알게 된, 학습한 내용을 정리해두는 저장소
 </br>
 
-## :arrow_forward: 도서
+## :arrow_forward: Book
 <details>
 <summary>자바의 신</summary>
 
@@ -30,7 +30,7 @@
 
 <br>
 
-## :arrow_forward: 자바
+## :arrow_forward: Java
 <details>
 <summary>목차</summary>
 
