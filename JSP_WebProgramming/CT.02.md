@@ -26,7 +26,7 @@ http://www.11st.co.kr/html/category/1.html?xzone=ctgr1^html
 <br>
 
 ### DNS(Domain Name Server)
-사람이 읽을 수 있는 도메인 이름(예 : www.naver.com)을 머신이 읽을 수 있는 주소(예: 192.0.2.44)로 변환
+사람이 읽을 수 있는 도메인 이름( 예 : www.naver.com )을 머신이 읽을 수 있는 주소(예: 192.0.2.44)로 변환
 
 <br>
 
