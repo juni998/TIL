@@ -1,5 +1,5 @@
 ### JVM 구성 요소
-<img width="952" height="882" alt="image" src="https://github.com/user-attachments/assets/8dfe6f91-4669-4da6-9aa6-8c7e48140418" />
+<img width="952" height="812" alt="image" src="https://github.com/user-attachments/assets/09483054-ddbe-4c53-a89e-cf0a84158646" />
 
 ### 클래스 로더(Class Loader)
 #### 클래스 로더가 왜 필요한가?
